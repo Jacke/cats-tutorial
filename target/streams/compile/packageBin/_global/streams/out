@@ -18,6 +18,8 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/stan/Dev/cats_tutorials/target/scala-2.13/classes/com/example/cats_tutorials/Cats_tutorialsRoutes$$anon$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	com/example/cats_tutorials/Main$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/stan/Dev/cats_tutorials/target/scala-2.13/classes/com/example/cats_tutorials/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/example/cats_tutorials/T.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/stan/Dev/cats_tutorials/target/scala-2.13/classes/com/example/cats_tutorials/T.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	com/example/cats_tutorials/HelloWorld$Greeting.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/stan/Dev/cats_tutorials/target/scala-2.13/classes/com/example/cats_tutorials/HelloWorld$Greeting.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	com/example/cats_tutorials/HelloWorld.class[0m
@@ -50,6 +52,8 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/stan/Dev/cats_tutorials/target/scala-2.13/classes/com/example/cats_tutorials/Jokes$Joke.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	com/example/cats_tutorials/Jokes$Joke$anon$lazy$macro$15$1$$anon$3.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/stan/Dev/cats_tutorials/target/scala-2.13/classes/com/example/cats_tutorials/Jokes$Joke$anon$lazy$macro$15$1$$anon$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/example/cats_tutorials/Foo.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/stan/Dev/cats_tutorials/target/scala-2.13/classes/com/example/cats_tutorials/Foo.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	com/example/cats_tutorials/HelloWorld$Greeting$$anon$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/stan/Dev/cats_tutorials/target/scala-2.13/classes/com/example/cats_tutorials/HelloWorld$Greeting$$anon$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	com/example/cats_tutorials/Jokes$Joke$anon$lazy$macro$7$1$$anon$1.class[0m
@@ -62,6 +66,8 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/stan/Dev/cats_tutorials/target/scala-2.13/classes/com/example/cats_tutorials/Jokes$Joke$anon$lazy$macro$15$1$anon$macro$13$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	com/example/cats_tutorials/Jokes$$anon$5$$anon$6.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/stan/Dev/cats_tutorials/target/scala-2.13/classes/com/example/cats_tutorials/Jokes$$anon$5$$anon$6.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/example/cats_tutorials/T$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/stan/Dev/cats_tutorials/target/scala-2.13/classes/com/example/cats_tutorials/T$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	com/example/cats_tutorials/Main.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/stan/Dev/cats_tutorials/target/scala-2.13/classes/com/example/cats_tutorials/Main.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	com/example/cats_tutorials/HelloWorld$Greeting$.class[0m

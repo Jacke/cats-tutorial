@@ -15,7 +15,7 @@ trait HelloWorld[F[Z]]{
 }
 
 object HelloWorld {
-  implicit def apply[F[_]](implicit ev: HelloWorld[F]): HelloWorld[F] = ev
+  implicit def apply[F[X]](implicit ev: HelloWorld[F]): HelloWorld[F] = ev
 
   final case class Name(name: String) extends AnyVal
   /**
@@ -41,11 +41,11 @@ object HelloWorld {
         )
       )
     }
-    implicit def greetingEntityEncoder[F[_]: Applicative]: EntityEncoder[F, Greeting] =
+    implicit def greetingEntityEncoder[F[X]: Applicative]: EntityEncoder[F, Greeting] =
       jsonEncoderOf[F, Greeting]
   }
 
-  def impl[F[_]: Applicative]: HelloWorld[F] = new HelloWorld[F]{
+  def impl[F[X]: Applicative]: HelloWorld[F] = new HelloWorld[F]{
     def hello(n: HelloWorld.Name): F[String] = {
       (Greeting("Hello, " + n.name).asJson.spaces4).pure[F]
     }

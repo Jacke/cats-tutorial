@@ -304,3 +304,496 @@ WARN  no build target: /Users/stan/Dev/cats_tutorials/src/main/scala/com/example
 WARN  no build target: /Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/Cats_tutorialsRoutes.scala
 WARN  no build target: /Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/HelloWorld.scala
 WARN  no build target: /Users/stan/Dev/cats_tutorials/build.sbt
+WARN  no build target: /Users/stan/Dev/cats_tutorials/src/test/scala/com/example/cats_tutorials/HelloWorldSpec.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/Cats_tutorialsServer.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/HelloWorld.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/HelloWorld.scala
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/HelloWorld.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/HelloWorld.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/HelloWorld.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/HelloWorld.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/Main.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/Main.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/Main.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/Main.scala
+Dec 29, 2019 5:50:25 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 756
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/Main.scala in com.example.cats_tutorials.Foo[<error>]RangePosition(file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/Main.scala, 165, 165, 178)
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/Main.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/Main.scala
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/Main.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/Main.scala
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/Main.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/Main.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/Main.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/Main.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/Main.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/Main.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/Main.scala
+INFO  shutting down Metals
+INFO  time: initialize in 0.39s
+INFO  skipping build import with status 'Requested'
+WARN  no build target: /Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/Main.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/Cats_tutorialsRoutes.scala
+INFO  no build target: using presentation compiler with only scala-library
+INFO  shutting down Metals
+INFO  time: initialize in 0.71s
+INFO  skipping build import with status 'Requested'
+WARN  no build target: /Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/Cats_tutorialsRoutes.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/Cats_tutorialsServer.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/HelloWorld.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/Jokes.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/Main.scala
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/Main.scala' because it doesn't belong to a build target.
+INFO  no build target: using presentation compiler with only scala-library
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/Main.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/Main.scala
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/Main.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/Main.scala
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/Main.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/Main.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/Main.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/Main.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/Main.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/build.sbt
+WARN  no build target: /Users/stan/Dev/cats_tutorials/src/main/scala/Main2.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/src/main/scala/Main2.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/Main2.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/Main2.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/Main2.scala
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/Main.scala in com.example.cats_tutorials.Foo[String]RangePosition(file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/Main.scala, 463, 463, 474)
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/Main.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/Main.scala
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/Main.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/Main.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/build.sbt
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/Main.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/Main.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/Main.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/Main.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/build.sbt
+WARN  no build target: 
+WARN  no build target: /Users/stan/Dev/cats_tutorials/build.sbt
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
+WARN  no build target: /Users/stan/Dev/cats_tutorials/build.sbt
+WARN  no build target: 
+WARN  no build target: /Users/stan/Dev/cats_tutorials/build.sbt
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
+WARN  no build target: /Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/Main.scala
+Dec 30, 2019 10:54:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 201
+Dec 30, 2019 10:54:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 202
+Dec 30, 2019 10:55:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 216
+Dec 30, 2019 10:55:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 222
+Dec 30, 2019 10:55:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 223
+WARN  no build target: /Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/Main.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/Main.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/Main.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/Main.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/config/AppConfig.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/config/AppConfig.scala
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/config/AppConfig.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/config/AppConfig.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/http/router/VersionRoute.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/http/router/VersionRoute.scala
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/config/AppConfig.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/config/AppConfig.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/config/AppConfig.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/Main.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/http/router/VersionRoute.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/http/router/NewsHandler.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/http/router/NewsHandler.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/model/Action.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/model/Exceptions.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/model/NewsOps.scala
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/model/NewsOps.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/model/NewsOps.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/http/router/NewsHandler.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/model/Action.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/model/Exceptions.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/model/NewsOps.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/repository/NewsRepository.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/service/NewsService.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/http/router/VersionRoute.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/http/router/NewsRoute.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/model/Exceptions.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/model/NewsOps.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/model/Exceptions.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/http/router/NewsHandler.scala
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/http/router/NewsHandler.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/http/router/NewsHandler.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/http/router/NewsHandler.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/http/router/NewsHandler.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/http/router/NewsHandler.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/http/router/NewsHandler.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/http/router/NewsHandler.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/http/router/NewsHandler.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/http/router/NewsHandler.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/http/router/NewsHandler.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/http/router/NewsHandler.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/http/router/NewsHandler.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/http/router/NewsHandler.scala
+Dec 30, 2019 11:18:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 452
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/http/router/NewsHandler.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/http/router/NewsHandler.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/http/router/NewsHandler.scala
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/http/router/NewsHandler.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/http/router/NewsHandler.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/http/router/NewsHandler.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/http/router/NewsHandler.scala
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/http/router/NewsHandler.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/http/router/NewsHandler.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/Main.scala
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/Main.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/Main.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/Main.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/model/NewsOps.scala
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/model/NewsOps.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/model/NewsOps.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/build.sbt
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/build.sbt
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/Main.scala
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/Main.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/Main.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/project/Dependency.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/build.sbt
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/test/scala/app/RestApiTest.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/model/Action.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/model/NewsOps.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/test/scala/app/TestInitializer.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/test/scala/app/NewsValidatorTest.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/test/scala/app/RestApiTest.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/test/scala/app/TestInitializer.scala
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/Main.scala' because it doesn't belong to a build target.
+Dec 30, 2019 11:35:14 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.HoverProvider.seenFromType(HoverProvider.scala:106)
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:42)
+
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/Main.scala' because it doesn't belong to a build target.
+Dec 30, 2019 11:35:15 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.HoverProvider.seenFromType(HoverProvider.scala:106)
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:42)
+
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/test/scala/app/TestInitializer.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/test/scala/app/TestInitializer.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/test/scala/app/TestInitializer.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/test/scala/app/TestInitializer.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/test/scala/app/TestInitializer.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/test/scala/app/TestInitializer.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/test/scala/app/TestInitializer.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/test/scala/app/TestInitializer.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/Main.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/test/scala/app/TestInitializer.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/test/scala/app/RestApiTest.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/test/scala/app/ShapelessUtilTest.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/test/scala/app/NewsValidatorTest.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/test/scala/app/TestInitializer.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/test/scala/app/TestInitializer.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/service/NewsService.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/repository/NewsRepository.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/http/router/RestApi.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/http/router/NewsRoute.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/model/Exceptions.scala
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/http/router/NewsRoute.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/http/router/NewsRoute.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/test/scala/app/TestInitializer.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/test/scala/app/TestInitializer.scala
+Dec 31, 2019 12:22:45 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.HoverProvider.seenFromType(HoverProvider.scala:106)
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:42)
+
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/test/scala/app/TestInitializer.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/test/scala/app/TestInitializer.scala
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/test/scala/app/TestInitializer.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/test/scala/app/TestInitializer.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/test/scala/app/TestInitializer.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/test/scala/app/TestInitializer.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/test/scala/app/TestInitializer.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/test/scala/app/TestInitializer.scala
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/test/scala/app/TestInitializer.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/test/scala/app/TestInitializer.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/test/scala/app/TestInitializer.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/test/scala/app/TestInitializer.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/test/scala/app/RestApiTest.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/test/scala/app/ShapelessUtilTest.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/test/scala/app/NewsValidatorTest.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/test/scala/app/NewsValidatorTest.scala
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/test/scala/app/NewsValidatorTest.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/test/scala/app/NewsValidatorTest.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/test/scala/app/NewsValidatorTest.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/test/scala/app/NewsValidatorTest.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/test/scala/app/RestApiTest.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/test/scala/app/RestApiTest.scala
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/test/scala/app/RestApiTest.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/test/scala/app/RestApiTest.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/test/scala/app/RestApiTest.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/test/scala/app/RestApiTest.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/test/scala/app/RestApiTest.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/test/scala/app/ShapelessUtilTest.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/test/scala/app/ShapelessUtilTest.scala
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/test/scala/app/ShapelessUtilTest.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/test/scala/app/ShapelessUtilTest.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/test/scala/app/RestApiTest.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/test/scala/app/RestApiTest.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/test/scala/app/RestApiTest.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/test/scala/app/RestApiTest.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/test/scala/app/RestApiTest.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/test/scala/app/RestApiTest.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/test/scala/app/RestApiTest.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/test/scala/app/RestApiTest.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/test/scala/app/RestApiTest.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/util/NewsValidator.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/util/NewsValidator.scala
+Dec 31, 2019 12:45:28 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1131
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/util/NewsValidator.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/util/NewsValidator.scala
+Dec 31, 2019 12:46:42 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1154
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/util/NewsValidator.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/util/NewsValidator.scala
+Dec 31, 2019 12:57:52 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1178
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/util/NewsValidator.scala
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/util/NewsValidator.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/util/NewsValidator.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/util/NewsValidator.scala
+Dec 31, 2019 1:02:49 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1233
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/util/NewsValidator.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/util/NewsValidator.scala
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/util/NewsValidator.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/util/NewsValidator.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/util/NewsValidator.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/util/NewsValidator.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/util/NewsValidator.scala
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/util/NewsValidator.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/util/NewsValidator.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/util/NewsValidator.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/build.sbt
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/http/router/NewsRoute.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/http/router/NewsRoute.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/build.sbt
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/build.sbt
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/build.sbt
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/Main.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/Main.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/Main.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/project/plugins.sbt
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/project/plugins.sbt
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/project/plugins.sbt
+WARN  no build target: /Users/stan/Dev/cats_tutorials/project/plugins.sbt
+WARN  no build target: /Users/stan/Dev/cats_tutorials/project/plugins.sbt
+WARN  no build target: 
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/build.sbt
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/build.sbt
+WARN  no build target: /Users/stan/Dev/cats_tutorials/build.sbt
+WARN  no build target: 
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/project/Key.scala
+Dec 31, 2019 4:48:07 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1529
+Dec 31, 2019 4:48:07 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1530
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/http/router/NewsRoute.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/http/router/RestApi.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/model/Action.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/repository/NewsRepository.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/service/NewsService.scala
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/Main.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/Main.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/Main.scala
+Dec 31, 2019 4:53:37 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.HoverProvider.seenFromType(HoverProvider.scala:106)
+	at scala.meta.internal.pc.HoverProvider.$anonfun$hover$4(HoverProvider.scala:51)
+	at scala.Option.map(Option.scala:230)
+	at scala.meta.internal.pc.HoverProvider.$anonfun$hover$3(HoverProvider.scala:50)
+	at scala.Option.flatMap(Option.scala:271)
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:49)
+
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/Main.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/Main.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/Main.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/Main.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/Main.scala
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/Main.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/Main.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/Main.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/Main.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/Main.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/Main.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/Main.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/Main.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/Main.scala
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/Main.scala' because it doesn't belong to a build target.
+Dec 31, 2019 5:19:05 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1724
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/Main.scala' because it doesn't belong to a build target.
+Dec 31, 2019 5:19:09 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1734
+Dec 31, 2019 5:19:09 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1735
+Dec 31, 2019 5:19:09 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1737
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/Main.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/Main.scala
+Dec 31, 2019 5:21:14 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1797
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/Main.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/Main.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/Main.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/Main.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/Main.scala
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/Main.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/Main.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/Main.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/Main.scala
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/config/AppConfig.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/config/AppConfig.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/config/AppConfig.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/config/AppConfig.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/config/AppConfig.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/config/AppConfig.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/config/AppConfig.scala
+Dec 31, 2019 5:51:35 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2009
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/config/AppConfig.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/config/AppConfig.scala
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/config/AppConfig.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/config/AppConfig.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/config/AppConfig.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/config/AppConfig.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/config/AppConfig.scala
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/config/AppConfig.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/config/AppConfig.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/config/AppConfig.scala
+Dec 31, 2019 6:11:37 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2098
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/config/AppConfig.scala
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/config/AppConfig.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/config/AppConfig.scala' because it doesn't belong to a build target.
+Dec 31, 2019 6:18:04 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2118
+Dec 31, 2019 6:18:05 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2120
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/config/AppConfig.scala
+Dec 31, 2019 6:20:16 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2172
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/config/AppConfig.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/config/AppConfig.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/config/AppConfig.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/config/AppConfig.scala
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/config/AppConfig.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/config/AppConfig.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/config/AppConfig.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/config/AppConfig.scala
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/config/AppConfig.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/config/AppConfig.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/config/AppConfig.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/config/AppConfig.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/config/AppConfig.scala
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/config/AppConfig.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/config/AppConfig.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/config/AppConfig.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/config/AppConfig.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/config/AppConfig.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/config/AppConfig.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/config/AppConfig.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/config/AppConfig.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/config/AppConfig.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/config/AppConfig.scala
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/config/AppConfig.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/config/AppConfig.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/config/AppConfig.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/config/AppConfig.scala
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/config/AppConfig.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/config/AppConfig.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/config/AppConfig.scala
