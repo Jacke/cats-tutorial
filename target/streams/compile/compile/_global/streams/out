@@ -1,7 +1,10 @@
-[0m[[0m[31merror[0m] [0m[0m/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/Main.scala:38:20: not found: type Resource[0m
-[0m[[0m[31merror[0m] [0m[0m    F: Effect[F]): Resource[F, Int] = ???  [0m
-[0m[[0m[31merror[0m] [0m[0m                   ^[0m
-[0m[[0m[31merror[0m] [0m[0m/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/Main.scala:38:8: not found: type Effect[0m
-[0m[[0m[31merror[0m] [0m[0m    F: Effect[F]): Resource[F, Int] = ???  [0m
-[0m[[0m[31merror[0m] [0m[0m       ^[0m
-[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/admin/src/main/scala/app/model/Exceptions.scala:55:12: macro annotation could not be expanded (you cannot use a macro annotation in the same compilation run that defines it)[0m
+[0m[[0m[31merror[0m] [0m[0mcase class HandlerModel[A](body: A, status: Int, reason: String)[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/admin/src/main/scala/app/model/Exceptions.scala:58:12: macro annotation could not be expanded (you cannot use a macro annotation in the same compilation run that defines it)[0m
+[0m[[0m[31merror[0m] [0m[0mcase class ErrorHandlerModel[A](body: A, status: Int, reason: String)[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/admin/src/main/scala/app/model/NewsOps.scala:8:12: macro annotation could not be expanded (you cannot use a macro annotation in the same compilation run that defines it)[0m
+[0m[[0m[31merror[0m] [0m[0mcase class News([0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0mthree errors found[0m

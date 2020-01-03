@@ -1,0 +1,110 @@
+package nested
+
+// // From https://github.com/non/kind-projector/issues/20
+// import scala.language.higherKinds
+
+// Passing values as types with lamda
+object KindProjectorWarnings {
+  // Tuple2[*, Double]        // equivalent to: type R[A] = Tuple2[A, Double]
+  // Either[Int, +*]          // equivalent to: type R[+A] = Either[Int, A]
+  // Function2[-*, Long, +*]  // equivalent to: type R[-A, +B] = Function2[A, Long, B]
+  // EitherT[*[_], Int, *]    // equivalent to: type R[F[_], B] = EitherT[F, Int, B]
+
+  import scala.reflect.runtime.universe._
+  class Foo1In[F[_], A] {
+    def paramInfo(implicit tag: TypeTag[A]): Unit = {
+      val targs = tag.tpe match { case TypeRef(_, _, args) => args }
+      println(s"type $tag ${tag.tpe} of has type arguments $targs")  
+  }
+  }
+  class Foo2In[F[_, _], A] {
+    def paramInfo(implicit tag: TypeTag[A]): Unit = {
+      val targs = tag.tpe match { case TypeRef(_, _, args) => args }
+      println(s"type $tag ${tag.tpe} of has type arguments $targs")  
+  }
+  }
+  class Bar2Arg[A, B] {
+    def paramInfo(implicit tag: TypeTag[A], tag2: TypeTag[B]): Unit = {
+      val targs = tag.tpe match { case TypeRef(_, _, args) => args }
+      val targs2 = tag2.tpe match { case TypeRef(_, _, args) => args }
+      println(s"type $tag $tag2 ${tag.tpe}${tag2.tpe} of has type arguments $targs")
+    }  
+  }
+  
+  class Baz3Arg[A, B, C] {
+    def paramInfo(implicit tag: TypeTag[A], tag2: TypeTag[B]): Unit = {
+      val targs = tag.tpe match { case TypeRef(_, _, args) => args }
+      val targs2 = tag2.tpe match { case TypeRef(_, _, args) => args }
+      println(s"type $tag $tag2 ${tag2.tpe} of has type arguments $targs")
+    }  
+  }
+
+  // * -> *
+  def f0[G]: Unit = ()
+  // *[*] -> *
+  def f[G[_]]: Unit = ()
+  // * [x] -> *
+  def ff[G[x]]: Unit = ()
+  // 
+  f[Foo1In[Foo1In[Baz3Arg[Int, *, Int], *], *]] // works
+
+  f[Foo2In[Baz3Arg[Int, *, *], *]] // works    
+  // rewrite
+  // Baz[Int, *, *] == 
+  type R[A, B] = Baz3Arg[Int, A, B]
+  //   f[Foo2In[R, *]] // works    
+  type RR[A] = Foo2In[R, A]
+  f[RR] // works    
+  f0[RR[Int]] // works
+  f0[RR] // not works
+
+  f[Foo1In[Baz2Arg[Int, *, Int], *]]
+  f[Foo1In[Bar2Arg[Int, *], *]]
+  f[Foo1In[Bar2Arg[*, Int], *]]
+
+  // TEST NESTING OF TYPES
+  // BY CREATING DEPENDEND TRAITS!!!! 
+
+  def paramInfo[T](implicit tag: TypeTag[T]): Unit = {
+    val targs = tag.tpe match { case TypeRef(_, _, args) => args }
+    println(s"type $tag ${tag.tpe} of has type arguments $targs")
+  }
+  def paramInfo2[G[_]](implicit tag: TypeTag[G]): Unit = {
+    val targs = tag.tpe match { case TypeRef(_, _, args) => args }
+    println(s"type $tag ${tag.tpe} of has type arguments $targs")
+  }  
+
+  ff[?] //cmd38.sc:1: not found: type ?
+
+  ff[Future] // works
+  ff[Future[?]] // works
+
+
+  f[Option[*]] // shadowing warning
+}
+
+
+
+
+// Foo1In[Foo1In[Baz3Arg[Int, *, Int], *], *] 
+// Foo1In[[β$2$]Foo1In[[β$0$]Baz3Arg[Int,β$0$,Int],β$2$],?]'s kind is F[A]
+// * -> *
+// This is a type constructor: a 1st-order-kinded type.
+
+// Baz3Arg[Int, *, Int]
+// Baz3Arg[Int,?,Int]'s kind is F[A]
+// * -> *
+// This is a type constructor: a 1st-order-kinded type.
+
+// Foo1In[Baz3Arg[Int, *, Int], *]
+// Foo1In[[β$1$]Baz3Arg[Int,β$1$,Int],?]'s kind is F[A]
+// * -> *
+// This is a type constructor: a 1st-order-kinded type.
+
+
+// Type tree
+// Foo1In[Foo1In[Baz3Arg[Int, *, Int], *], *]
+// Baz3Arg [Int, *, Int]
+
+// Foo1In[F[_], A] 
+// Baz3Arg[A, B, C]

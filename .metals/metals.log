@@ -797,3 +797,570 @@ WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/con
 WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/config/AppConfig.scala' because it doesn't belong to a build target.
 WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/config/AppConfig.scala' because it doesn't belong to a build target.
 WARN  no build target: /Users/stan/Dev/cats_tutorials/Tmp/src/main/scala/app/config/AppConfig.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/exercises-cats-master/src/main/scala/catslib/Validated.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/exercises-cats-master/src/main/scala/catslib/FunctorSection.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/advanced-scala-exercises-master/src/main/scala/com/gvolpe/advanced/extra/functors.sc
+WARN  no build target: /Users/stan/Dev/cats_tutorials/advanced-scala-exercises-master/src/main/scala/com/gvolpe/advanced/extra/FunctorsExtra.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/advanced-scala-exercises-master/src/main/scala/com/gvolpe/advanced/extra/MonadsExtra.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/advanced-scala-exercises-master/src/main/scala/com/gvolpe/advanced/applicatives/scalaz-applicatives.sc
+WARN  no build target: /Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/functor.scala
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/functor.scala in <error>RangePosition(file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/functor.scala, 130, 130, 142)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/functor.scala in <error>RangePosition(file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/functor.scala, 130, 130, 142)
+WARN  no build target: /Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/hmm.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/issue80.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/pc.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala in <error>RangePosition(file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala, 218, 218, 229)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala in <error>RangePosition(file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala, 218, 218, 229)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala in <error>RangePosition(file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala, 218, 218, 229)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala in <error>RangePosition(file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala, 218, 218, 229)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala in <error>RangePosition(file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala, 218, 218, 229)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala in <error>RangePosition(file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala, 218, 218, 229)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala in <error>RangePosition(file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala, 218, 218, 229)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala in <error>RangePosition(file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala, 218, 218, 229)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala in <error>RangePosition(file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala, 218, 218, 229)
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala' because it doesn't belong to a build target.
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala in Option[<error>]RangePosition(file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala, 214, 214, 230)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala in Option[<error>]RangePosition(file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala, 214, 214, 230)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala in Option[<error>]RangePosition(file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala, 214, 214, 223)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala in Option[<error>]RangePosition(file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala, 214, 214, 224)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala in Option[<error>]RangePosition(file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala, 214, 214, 223)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala in Option[<error>]RangePosition(file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala, 214, 214, 230)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala in Option[<error>]RangePosition(file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala, 214, 214, 223)
+Jan 02, 2020 3:20:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2585
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala' because it doesn't belong to a build target.
+Jan 02, 2020 3:24:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2751
+Jan 02, 2020 3:24:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2752
+Jan 02, 2020 3:24:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2753
+Jan 02, 2020 3:24:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2756
+Jan 02, 2020 3:24:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2755
+Jan 02, 2020 3:24:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2759
+Jan 02, 2020 3:24:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2760
+Jan 02, 2020 3:24:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2766
+Jan 02, 2020 3:24:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2769
+Jan 02, 2020 3:24:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2774
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala in <error>RangePosition(file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala, 315, 315, 334)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala in <error>RangePosition(file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala, 315, 315, 334)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala in <error>RangePosition(file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala, 315, 315, 334)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala in <error>RangePosition(file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala, 315, 315, 334)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala in <error>RangePosition(file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala, 315, 315, 334)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala in <error>RangePosition(file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala, 315, 315, 334)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala in <error>RangePosition(file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala, 315, 315, 334)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala in <error>RangePosition(file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala, 315, 315, 334)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala in <error>RangePosition(file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala, 315, 315, 334)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala in <error>RangePosition(file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala, 315, 315, 334)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala in <error>RangePosition(file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala, 315, 315, 334)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala in <error>RangePosition(file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala, 315, 315, 334)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala in <error>RangePosition(file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala, 315, 315, 334)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala in <error>RangePosition(file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala, 319, 319, 330)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala in <error>RangePosition(file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala, 319, 319, 330)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala in <error>RangePosition(file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala, 319, 319, 330)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala in <error>RangePosition(file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala, 319, 319, 330)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala in <error>RangePosition(file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala, 315, 315, 334)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala in <error>RangePosition(file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala, 315, 315, 334)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala in <error>RangePosition(file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala, 336, 336, 355)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala in <error>RangePosition(file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala, 336, 336, 355)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala in nested.KindProjectorWarnings.Bar[Int,<error>]RangePosition(file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala, 340, 340, 351)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala in nested.KindProjectorWarnings.Bar[Int,<error>]RangePosition(file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala, 340, 340, 351)
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala' because it doesn't belong to a build target.
+Jan 02, 2020 3:27:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2892
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala in <error>RangePosition(file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala, 336, 336, 360)
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala' because it doesn't belong to a build target.
+Jan 02, 2020 3:33:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3195
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala' because it doesn't belong to a build target.
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala in <error>RangePosition(file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala, 372, 372, 418)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala in <error>RangePosition(file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala, 541, 541, 563)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala in <error>RangePosition(file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala, 541, 541, 563)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala in <error>RangePosition(file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala, 541, 541, 563)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala in <error>RangePosition(file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala, 541, 541, 563)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala in <error>RangePosition(file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala, 435, 435, 460)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala in <error>RangePosition(file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala, 435, 435, 460)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala in <error>RangePosition(file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala, 435, 435, 460)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala in <error>RangePosition(file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala, 435, 435, 460)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala in <error>RangePosition(file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala, 435, 435, 460)
+WARN  no build target: /Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala in <error>RangePosition(file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala, 410, 410, 457)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala in <error>RangePosition(file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala, 410, 410, 457)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala in nested.KindProjectorWarnings.Foo1In[<error>,<error>]RangePosition(file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala, 748, 748, 775)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala in nested.KindProjectorWarnings.Foo1In[<error>,<error>]RangePosition(file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala, 748, 748, 775)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala in nested.KindProjectorWarnings.Foo1In[<error>,<error>]RangePosition(file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala, 748, 748, 775)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala in nested.KindProjectorWarnings.Foo1In[<error>,<error>]RangePosition(file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala, 748, 748, 775)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala in <error>RangePosition(file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala, 799, 799, 824)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala in <error>RangePosition(file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala, 799, 799, 824)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala in <error>RangePosition(file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala, 799, 799, 824)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala in <error>RangePosition(file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala, 857, 857, 882)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala in <error>RangePosition(file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala, 857, 857, 882)
+Jan 02, 2020 3:38:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3390
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala' because it doesn't belong to a build target.
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala in <error>RangePosition(file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala, 915, 915, 927)
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala' because it doesn't belong to a build target.
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala in <error>RangePosition(file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala, 940, 940, 952)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala in <error>RangePosition(file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala, 1060, 1060, 1082)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala in <error>RangePosition(file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala, 1032, 1032, 1054)
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala' because it doesn't belong to a build target.
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala in <error>RangePosition(file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala, 1032, 1032, 1054)
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala' because it doesn't belong to a build target.
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala in <error>RangePosition(file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala, 1032, 1032, 1054)
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala' because it doesn't belong to a build target.
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala in <error>RangePosition(file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala, 1310, 1310, 1341)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala in <error>RangePosition(file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala, 1310, 1310, 1341)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala in nested.KindProjectorWarnings.Bar2Arg[<error>,Int]RangePosition(file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala, 1386, 1386, 1401)
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala' because it doesn't belong to a build target.
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala in nested.KindProjectorWarnings.Foo1In[<error>,<error>]RangePosition(file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala, 1262, 1262, 1289)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala in nested.KindProjectorWarnings.Foo1In[<error>,<error>]RangePosition(file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala, 1262, 1262, 1289)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala in <error>RangePosition(file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala, 1262, 1262, 1289)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala in <error>RangePosition(file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala, 1250, 1250, 1297)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala in <error>RangePosition(file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala, 1250, 1250, 1297)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala in <error>RangePosition(file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala, 1262, 1262, 1289)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala in <error>RangePosition(file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala, 1262, 1262, 1289)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala in <error>RangePosition(file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala, 1262, 1262, 1289)
+Jan 02, 2020 3:47:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3777
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala in G[<error>]RangePosition(file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala, 1190, 1190, 1201)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala in G[<error>]RangePosition(file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala, 1190, 1190, 1194)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala in G[<error>]RangePosition(file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala, 1190, 1190, 1194)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala in G[<error>]RangePosition(file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala, 1190, 1190, 1194)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala in G[<error>]RangePosition(file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala, 1190, 1190, 1201)
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala' because it doesn't belong to a build target.
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala in <error>RangePosition(file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala, 1724, 1724, 1755)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala in <error>RangePosition(file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala, 1524, 1524, 1549)
+Jan 02, 2020 3:58:05 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:37)
+
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala in nested.KindProjectorWarnings.RR[Int]RangePosition(file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala, 1714, 1714, 1721)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala in nested.KindProjectorWarnings.RR[Int]RangePosition(file:///Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala, 1714, 1714, 1721)
+WARN  no build target: /Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/nested.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/scala/polylambda.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/kind-projector-master/src/test/resources/moo.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/kind-projector-master/src/main/scala-2.13+/StringParser.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/kind-projector-master/src/main/scala/KindProjector.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/admin/src/main/scala/app/http/router/VersionRoute.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/admin/src/main/scala/app/config/AppConfig.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/admin/src/main/scala/app/http/router/NewsHandler.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/admin/src/main/scala/Main.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/admin/src/test/scala/app/TestInitializer.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/admin/src/test/scala/app/NewsValidatorTest.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/admin/src/test/scala/app/RestApiTest.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/admin/src/test/scala/app/ShapelessUtilTest.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/admin/src/main/scala/app/util/NewsValidator.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/admin/src/main/scala/app/http/router/NewsRoute.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/admin/src/build.sbt
+WARN  no build target: /Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/bounds.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/build.sbt
+WARN  no build target: 
+WARN  no build target: /Users/stan/Dev/cats_tutorials/build.sbt
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
+WARN  no build target: /Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/admin/src/main/scala/Main.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/tony.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/tony.scala
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala in <error>RangePosition(file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala, 1759, 1759, 1790)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala in nested.KindProjectorWarnings.Foo2In[nested.KindProjectorWarnings.R,A]RangePosition(file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala, 1675, 1675, 1687)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala in nested.KindProjectorWarnings.Foo2In[nested.KindProjectorWarnings.R,A]RangePosition(file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala, 1675, 1675, 1687)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala in <error>RangePosition(file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala, 1464, 1464, 1491)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala in nested.KindProjectorWarnings.Foo2In[nested.KindProjectorWarnings.R,A]RangePosition(file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala, 1675, 1675, 1687)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala in nested.KindProjectorWarnings.Foo2In[nested.KindProjectorWarnings.R,A]RangePosition(file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala, 1675, 1675, 1687)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala in nested.KindProjectorWarnings.Foo2In[nested.KindProjectorWarnings.R,A]RangePosition(file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala, 1675, 1675, 1687)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala in nested.KindProjectorWarnings.Foo2In[nested.KindProjectorWarnings.R,A]RangePosition(file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala, 1675, 1675, 1687)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala in nested.KindProjectorWarnings.Foo2In[nested.KindProjectorWarnings.R,A]RangePosition(file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala, 1675, 1675, 1687)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala in nested.KindProjectorWarnings.Foo2In[nested.KindProjectorWarnings.R,A]RangePosition(file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala, 1675, 1675, 1687)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala in nested.KindProjectorWarnings.Foo2In[nested.KindProjectorWarnings.R,A]RangePosition(file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala, 1675, 1675, 1687)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala in nested.KindProjectorWarnings.Foo2In[nested.KindProjectorWarnings.R,A]RangePosition(file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala, 1675, 1675, 1687)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala in nested.KindProjectorWarnings.Foo2In[nested.KindProjectorWarnings.R,A]RangePosition(file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala, 1675, 1675, 1687)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala in nested.KindProjectorWarnings.Foo2In[nested.KindProjectorWarnings.R,A]RangePosition(file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala, 1675, 1675, 1687)
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala in <error>RangePosition(file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala, 1759, 1759, 1790)
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala in <error>RangePosition(file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala, 1515, 1515, 1540)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala in nested.KindProjectorWarnings.Foo2In[nested.KindProjectorWarnings.R,A]RangePosition(file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala, 1675, 1675, 1687)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala in nested.KindProjectorWarnings.Foo2In[nested.KindProjectorWarnings.R,A]RangePosition(file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala, 1675, 1675, 1687)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala in nested.KindProjectorWarnings.Foo2In[nested.KindProjectorWarnings.R,A]RangePosition(file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala, 1675, 1675, 1687)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala in nested.KindProjectorWarnings.Foo2In[nested.KindProjectorWarnings.R,A]RangePosition(file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala, 1675, 1675, 1687)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala in <error>RangePosition(file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala, 1759, 1759, 1790)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala in nested.KindProjectorWarnings.Foo2In[nested.KindProjectorWarnings.R,A]RangePosition(file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala, 1675, 1675, 1687)
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+Jan 02, 2020 4:56:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4276
+Jan 02, 2020 4:56:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4278
+WARN  no build target: /Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala in <error>RangePosition(file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala, 1759, 1759, 1790)
+Jan 02, 2020 5:03:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4367
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala in <error>RangePosition(file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala, 1464, 1464, 1491)
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala in <error>RangePosition(file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala, 1506, 1506, 1534)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala in <error>RangePosition(file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala, 1558, 1558, 1584)
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala in <error>RangePosition(file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala, 1809, 1809, 1840)
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala in nested.KindProjectorWarnings.Baz3Arg[Int,A,B]RangePosition(file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala, 1659, 1659, 1677)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala in nested.KindProjectorWarnings.Baz3Arg[Int,A,B]RangePosition(file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala, 1659, 1659, 1677)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala in nested.KindProjectorWarnings.Foo2In[nested.KindProjectorWarnings.R,A]RangePosition(file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala, 1729, 1729, 1741)
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala in nested.KindProjectorWarnings.Foo2In[nested.KindProjectorWarnings.R,A]RangePosition(file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala, 1729, 1729, 1741)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala in nested.KindProjectorWarnings.Foo2In[nested.KindProjectorWarnings.R,A]RangePosition(file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala, 1729, 1729, 1741)
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala in <error>RangePosition(file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala, 1813, 1813, 1844)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala in nested.KindProjectorWarnings.Foo2In[nested.KindProjectorWarnings.R,A]RangePosition(file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala, 1729, 1729, 1741)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala in nested.KindProjectorWarnings.Baz3Arg[Int,A,B]RangePosition(file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala, 1659, 1659, 1677)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala in nested.KindProjectorWarnings.Foo2In[nested.KindProjectorWarnings.R,A]RangePosition(file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala, 1729, 1729, 1741)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala in <error>RangePosition(file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala, 1857, 1857, 1872)
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala in <error>RangePosition(file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala, 1506, 1506, 1537)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala in <error>RangePosition(file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala, 1513, 1513, 1533)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala in <error>RangePosition(file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala, 1513, 1513, 1533)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala in <error>RangePosition(file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala, 1513, 1513, 1533)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala in <error>RangePosition(file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala, 1513, 1513, 1533)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala in <error>RangePosition(file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala, 1513, 1513, 1533)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala in <error>RangePosition(file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala, 1513, 1513, 1533)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala in <error>RangePosition(file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala, 1506, 1506, 1537)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala in nested.KindProjectorWarnings.Baz3Arg[Int,<error>,Int]RangePosition(file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala, 1508, 1508, 1528)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala in nested.KindProjectorWarnings.Foo1In[nested.KindProjectorWarnings.Baz3Arg[Int,<error>,Int],<error>]RangePosition(file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala, 1501, 1501, 1532)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala in nested.KindProjectorWarnings.Foo1In[nested.KindProjectorWarnings.Baz3Arg[Int,<error>,Int],<error>]RangePosition(file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala, 1501, 1501, 1532)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala in nested.KindProjectorWarnings.Baz3Arg[Int,<error>,Int]RangePosition(file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala, 1508, 1508, 1528)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala in nested.KindProjectorWarnings.Foo1In[nested.KindProjectorWarnings.Baz3Arg[Int,<error>,Int],<error>]RangePosition(file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala, 1501, 1501, 1532)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala in <error>RangePosition(file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala, 1494, 1494, 1536)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala in <error>RangePosition(file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala, 1494, 1494, 1536)
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+Jan 02, 2020 6:40:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4654
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+Jan 02, 2020 6:42:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4793
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+Jan 02, 2020 6:57:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4825
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala in <error>RangePosition(file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala, 2143, 2143, 2169)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala in <error>RangePosition(file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala, 2143, 2143, 2169)
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala in <error>RangePosition(file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala, 2175, 2175, 2201)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala in <error>RangePosition(file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala, 2143, 2143, 2169)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala in <error>RangePosition(file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala, 2143, 2143, 2169)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala in <error>RangePosition(file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala, 2143, 2143, 2169)
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala in <error>RangePosition(file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala, 2106, 2106, 2137)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala in <error>RangePosition(file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala, 2175, 2175, 2201)
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala in nested.KindProjectorWarnings.Foo2In[nested.KindProjectorWarnings.R,A]RangePosition(file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala, 2022, 2022, 2034)
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+Jan 02, 2020 8:12:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4984
+Jan 02, 2020 8:12:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4986
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala in <error>RangePosition(file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala, 2106, 2106, 2137)
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala in <error>RangePosition(file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala, 2106, 2106, 2137)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala in <error>RangePosition(file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala, 2106, 2106, 2137)
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala in <error>RangePosition(file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala, 2143, 2143, 2169)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala in nested.KindProjectorWarnings.Baz3Arg[Int,A,B]RangePosition(file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala, 1952, 1952, 1970)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala in nested.KindProjectorWarnings.Baz3Arg[Int,A,B]RangePosition(file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala, 1952, 1952, 1970)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala in nested.KindProjectorWarnings.Baz3Arg[Int,A,B]RangePosition(file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala, 1952, 1952, 1970)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala in nested.KindProjectorWarnings.Baz3Arg[Int,A,B]RangePosition(file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala, 1952, 1952, 1970)
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala in nested.KindProjectorWarnings.Baz3Arg[Int,A,B]RangePosition(file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala, 1952, 1952, 1970)
+Jan 03, 2020 2:04:52 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5072
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala in nested.KindProjectorWarnings.Foo2In[nested.KindProjectorWarnings.R,A]RangePosition(file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala, 2022, 2022, 2034)
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+Jan 03, 2020 2:23:25 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5240
+Jan 03, 2020 2:23:25 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5241
+something's wrong: no file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala in nested.KindProjectorWarnings.Foo2In[nested.KindProjectorWarnings.R,A]RangePosition(file:///Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala, 2068, 2068, 2080)
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/nested.scala' because it doesn't belong to a build target.
+Jan 03, 2020 7:10:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5310
+WARN  no build target: /Users/stan/Dev/cats_tutorials/build.sbt
+WARN  no build target: 
+WARN  no build target: /Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/Dependency.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/build.sbt
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/Dependency.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/Dependency.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/Dependency.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/Dependency.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/stan/Dev/cats_tutorials/build.sbt
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
+WARN  no build target: /Users/stan/Dev/cats_tutorials/build.sbt
+WARN  no build target: 
+WARN  no build target: /Users/stan/Dev/cats_tutorials/build.sbt
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
+WARN  no build target: /Users/stan/Dev/cats_tutorials/build.sbt
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
+WARN  no build target: /Users/stan/Dev/cats_tutorials/build.sbt
+WARN  no build target: 
+WARN  no build target: /Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/Dependency.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/build.sbt
+WARN  no build target: /Users/stan/Dev/cats_tutorials/build.sbt
+INFO  skipping build import with status 'Dismissed'
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/Dependency.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/Dependency.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/Dependency.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/Dependency.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/Dependency.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/build.sbt
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
+WARN  no build target: /Users/stan/Dev/cats_tutorials/build.sbt
+WARN  no build target: 
+WARN  no build target: /Users/stan/Dev/cats_tutorials/build.sbt
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
+WARN  no build target: /Users/stan/Dev/cats_tutorials/build.sbt
+WARN  no build target: 
+WARN  no build target: /Users/stan/Dev/cats_tutorials/build.sbt
+WARN  no build target: 
+INFO  time: initialize in 0.59s
+INFO  skipping build import with status 'Requested'
+WARN  no build target: /Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/Cats_tutorialsRoutes.scala
+WARN  no build target: /Users/stan/Dev/cats_tutorials/src/main/scala/com/example/cats_tutorials/scala/admin/src/build.sbt
+WARN  no build target: /Users/stan/Dev/cats_tutorials/build.sbt
+WARN  no build target: /Users/stan/Dev/cats_tutorials/build.sbt
+WARN  no build target: 
